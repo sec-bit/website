@@ -27,4 +27,4 @@ public/%.html: %.md
 	pandoc $(FLAGS) -s $< -o $@
 
 clean: 
-	rm -rf $(TARGET_DIR)
+	rm -rf $(TARGET_DIR)/*
