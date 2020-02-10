@@ -1,0 +1,25 @@
+
+html {
+    font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+    background: floralwhite;
+    max-width: calc(56em + 1px);
+    margin: auto;
+    font-family:  sans-serif;
+    margin-top: 2em;
+    margin-left: 4em;
+    margin: auto;
+    padding: 0 2%;
+}
+
+img {
+max-width: 100%;
+height: auto;
+}
+
+.img-valign {
+    vertical-align: middle;
+    margin-bottom: 0.75em;
+  }
