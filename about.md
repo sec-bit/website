@@ -15,4 +15,5 @@ We are SECBIT Labs. We aim to build high-confidence and trustworthy protocol, ap
 - [Email](mailto:hi@secbit.io)
 - [GitHub](https://github.com/sec-bit)
 - [Twitter](https://twitter.com/SECBIT_IO)
-- [Medium](https://medium.com/@SECBIT)
+- [Medium](https://medium.com/@SECBIT) and [Medium Publication](https://medium.com/secbit-media)
+- [Zhihu](https://www.zhihu.com/org/secbit/)
