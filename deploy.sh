@@ -5,6 +5,12 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# Update submodule from origin
+cd public
+git checkout master
+git pull
+cd ..
+
 # Build the project.
 make clean
 make
