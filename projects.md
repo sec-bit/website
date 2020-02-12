@@ -19,7 +19,7 @@ Correctness proofs of Ethereum token contracts.
 
 Formal Verification for Loopring Protocol Smart Contract version 2.
 
-### [Security Audit for the first zkRollup DEX protocol](https://github.com/Loopring/protocols/tree/d528ab83c9934a4d54e4a3ceefa20ba7908ebe25/packages/loopring_v3/security_audit)
+### [Security Audit for the First zkRollup DEX Protocol](https://github.com/Loopring/protocols/tree/d528ab83c9934a4d54e4a3ceefa20ba7908ebe25/packages/loopring_v3/security_audit)
 
 Security audit for the first zkRollup based decentralized exchange, including smart contracts and zkp circuits.
 
