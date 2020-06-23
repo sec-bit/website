@@ -15,13 +15,16 @@ FLAGS  := \
 			--include-after-body=$(TEMPL)/footer.html \
 			--css resources/style.css
 
-all: mkdir copy_resources $(HTMLs)
+all: mkdir copy_resources CNAME $(HTMLs)
 
 mkdir:
 	mkdir -p $(TARGET_DIR)
 
 copy_resources:
 	cp -r $(RESOURCE_DIR) $(TARGET_DIR)
+
+CNAME:
+	echo "secbit.io" > public/CNAME
 
 public/%.html: %.md
 	pandoc $(FLAGS) -s $< -o $@

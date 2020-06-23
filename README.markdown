@@ -32,4 +32,4 @@
 
     Don't forget to commit changes in this repo, including git submodule change.
 
-6. View the changes at https://sec-bit.github.io.
+6. View the changes at https://sec-bit.github.io or https://secbit.io.
