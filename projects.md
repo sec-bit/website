@@ -3,19 +3,19 @@ title: Projects
 pagetitle: SECBIT Labs | Projects
 ---
 
-### [Clover Protocol](https://github.com/sec-bit/clover-protocol)
-
-An aSVC based stateless protocol as layer-2 rollup on Nervos network. Developed during the [Nervos hackathon](https://medium.com/nervosnetwork/nervoshack-wrap-up-4370044f9866).
-
-### [ckb-zkp (a.k.a. zkp-toolkit-ckb)](https://github.com/sec-bit/ckb-zkp)
-
-Zero-knowledge proofs toolkit for CKB. Under active development and selected as one of the first infrastructure projects to be funded by the [Nervos Ecosystem Grants Program](https://medium.com/nervosnetwork/three-new-ecosystem-grants-awarded-892b97e8bc06). Read the original proposal [here](https://talk.nervos.org/t/secbit-labs-zkp-toolkit-ckb-a-zero-knowledge-proof-toolkit-for-ckb/4254).
-
 ### [zkPoD](https://github.com/sec-bit/zkPoD-node)
 
 A decentralized system for data exchange. See our [technical paper](https://sec-bit.github.io/zkPoD-node/paper.pdf) for more information.
 
-### [learning-zkp](https://github.com/sec-bit/learning-zkp)
+### [CKB-ZKP (a.k.a. zkp-toolkit-ckb)](https://github.com/sec-bit/ckb-zkp)
+
+Zero-knowledge proofs toolkit for CKB. Under active development and selected as one of the first infrastructure projects to be funded by the [Nervos Ecosystem Grants Program](https://medium.com/nervosnetwork/three-new-ecosystem-grants-awarded-892b97e8bc06). Read the original proposal [here](https://talk.nervos.org/t/secbit-labs-zkp-toolkit-ckb-a-zero-knowledge-proof-toolkit-for-ckb/4254).
+
+### [Clover Protocol](https://github.com/sec-bit/clover-protocol)
+
+An aSVC based stateless protocol as layer-2 rollup on Nervos network. Developed during the [Nervos hackathon](https://medium.com/nervosnetwork/nervoshack-wrap-up-4370044f9866).
+
+### [Learning ZKP](https://github.com/sec-bit/learning-zkp)
 
 Articles, codes and tools all about zero-knowledge proofs. Read about zkp introduction series [from here](https://github.com/sec-bit/learning-zkp/blob/master/zkp-intro/1/zkp-back.md) or check out [zkp learning resource list](https://github.com/sec-bit/learning-zkp/blob/master/zkp-resource-list.md).
 
