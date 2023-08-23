@@ -3,6 +3,22 @@ title: Projects
 pagetitle: SECBIT Labs | Projects
 ---
 
+### [RLN on KZG in Golang](https://github.com/sec-bit/kzg-rln-go)
+
+A proof-of-concept implementation of RLN (Rate Limiting Nullifier) using KZG in Golang. This implementation is grounded in the discussion at [zkresearch](https://zkresear.ch/t/rln-on-kzg-polynomial-commitment-scheme-cross-posted/114) initiated by Wanseob Lim.
+
+### [MferSafe](https://github.com/sec-bit/mfer-safe)
+
+This application allows you to freely explore DApps, impersonate any user, inspect transaction traces, manipulate time by turning the clock forward or backward, and easily construct and simulate Gnosis Safe MultiSend transaction bundles. A lite version, known as [MferSafe Lite](https://github.com/sec-bit/mfer-safe-lite), is also available as a browser extension.
+
+### [Security Audit for Ethereum KZG Ceremony](https://github.com/ethereum/kzg-ceremony/blob/main/KZG10-Ceremony-audit-report.pdf)
+
+Security audit for the [specification](https://github.com/ethereum/kzg-ceremony-specs) and [implementation](https://github.com/crate-crypto/small-powers-of-tau) of Ethereum's Powers of Tau (PoT) setup ceremony.
+
+### [ZKCPlus](https://dl.acm.org/doi/10.1145/3460120.3484558)
+
+Optimized Fair-exchange Protocol Supporting Practical and Flexible Data Exchange. This research builds upon our prior work on zkPoD and has been accepted for publication in CCS '21.
+
 ### [zkPoD](https://github.com/sec-bit/zkPoD-node)
 
 A decentralized system for data exchange. See our [technical paper](https://sec-bit.github.io/zkPoD-node/paper.pdf) for more information.
