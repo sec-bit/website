@@ -1,6 +1,26 @@
 <footer>
 	<hr />
 	<div class="center" style="text-align:center;">
-		<p>Don't Trust. Verify.</p>
+		<p id="quote">Don't Trust. Verify.</p>
 	</div>
 </footer>
+
+<script>
+	// Your list of quotes
+	var quotes = [
+		"Don't Trust. Verify.",
+		// Add as many quotes as you like
+	];
+
+	// Interval in milliseconds (e.g., 5 seconds)
+	var interval = 5000;
+
+	// Calculate a pseudo-random index based on the current time and interval
+	var index = Math.floor(Date.now() / interval) % quotes.length;
+
+	// Get the quote element
+	var quoteElement = document.getElementById('quote');
+
+	// Set the quote text
+	quoteElement.textContent = quotes[index];
+</script>
