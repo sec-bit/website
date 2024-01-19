@@ -17,3 +17,4 @@ We are SECBIT Labs. We aim to build high-confidence and trustworthy protocol, ap
 - [Twitter](https://twitter.com/SECBIT_IO)
 - [Medium](https://medium.com/@SECBIT) and [Medium Publication](https://medium.com/secbit-media)
 - [Zhihu](https://www.zhihu.com/org/secbit/)
+- [Wechat/Weixin Articles Archive](https://mp.weixin.secbit.io/)
