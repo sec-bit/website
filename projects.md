@@ -3,6 +3,14 @@ title: Projects
 pagetitle: SECBIT Labs | Projects
 ---
 
+### [MLE-PCS](https://github.com/sec-bit/mle-pcs)
+
+The mle-pcs is a research-driven project focused on the Comparison of Multilinear Polynomial Commitment Schemes. The research is supported by the Ethereum Foundation and aims to provide a comprehensive analysis of different schemes, their design philosophies, security properties, and performance metrics. The repo contains reference implementations of the schemes, interactive tutorials, and [comprehensive research notes](https://sec-bit.github.io/mle-pcs/).
+
+### [Trust Wallet's Fomo3D Summer Vulnerability Disclosure](https://secbit.io/blog/en/2024/01/19/trust-wallets-fomo3d-summer-vuln/)
+
+A comprehensive investigation and disclosure of a critical vulnerability in Trust Wallet back to 2018. The vulnerability in the Trust Wallet iOS app, stemming from the misuse of the trezor-crypto library, allowed hackers to steal cryptocurrency from users. The vulnerability originated from a predictable random number generator used to create mnemonic words, which are used to access wallets.
+
 ### [RLN on KZG in Golang](https://github.com/sec-bit/kzg-rln-go)
 
 A proof-of-concept implementation of RLN (Rate Limiting Nullifier) using KZG in Golang. This implementation is grounded in the discussion at [zkresearch](https://zkresear.ch/t/rln-on-kzg-polynomial-commitment-scheme-cross-posted/114) initiated by Wanseob Lim.
